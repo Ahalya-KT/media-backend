@@ -1,0 +1,80 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Aradhya - Video Song",
+      "thumbnail": "https://static.toiimg.com/photo/103272997.cms?imgsize=75170",
+      "url": "https://www.youtube.com/embed/0gXel_bKl00"
+    },
+    {
+      "id": "2",
+      "caption": "Aradhya - Video Song",
+      "thumbnail": "https://static.toiimg.com/photo/103272997.cms?imgsize=75170",
+      "url": "https://www.youtube.com/embed/0gXel_bKl00"
+    }
+  ],
+  "category": [
+    {
+      "id": "2",
+      "categoryName": "videos",
+      "allvideos": [
+        {
+          "id": 1,
+          "caption": "Neela Nilave - Video Song",
+          "thumbnail": "https://i.insider.com/5d63e9632e22af069543ded5?width=1136&format=jpeg",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "categoryName": "songs",
+      "allvideos": [
+        {
+          "id": "2",
+          "caption": "Aradhya - Video Song",
+          "thumbnail": "https://static.toiimg.com/photo/103272997.cms?imgsize=75170",
+          "url": "https://www.youtube.com/embed/0gXel_bKl00"
+        },
+        {
+          "id": "3",
+          "caption": "Aradhya - Video Song",
+          "thumbnail": "https://static.toiimg.com/photo/103272997.cms?imgsize=75170",
+          "url": "https://www.youtube.com/embed/xqOdFnB0b6s"
+        }
+      ]
+    }
+  ],
+  "Watchhistory": [
+    {
+      "id": 1,
+      "cardName": "Aradhya - Video Song",
+      "url": "https://www.youtube.com/embed/xqOdFnB0b6s",
+      "date": "11-02-2023"
+    },
+    {
+      "id": "a26ad6a7-6190-43ad-bbb9-5d8bad4d525c",
+      "cardName": "Neela Nilave - Video Song",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "2023-11-03T05:45:50.015Z"
+    },
+    {
+      "id": "8f167583-6bdb-4f1d-a78a-8bbc8b024e05",
+      "cardName": "Neela Nilave - Video Song",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "2023-11-06T05:24:47.082Z"
+    },
+    {
+      "id": "60be52fd-84c3-4ef1-84f6-3af4a84fd6f5",
+      "cardName": "Aradhya - Video Song",
+      "url": "https://www.youtube.com/embed/0gXel_bKl00",
+      "date": "2023-11-06T05:50:10.519Z"
+    },
+    {
+      "id": "5b099d6f-a5ba-4ba1-816e-6bfc5fb5514d",
+      "cardName": "Neela Nilave - Video Song",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "2023-11-07T05:55:12.467Z"
+    }
+  ]
+}
